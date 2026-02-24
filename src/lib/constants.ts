@@ -11,7 +11,7 @@ export const NAV_ITEMS = [
 
 // Your personal information
 export const PERSONAL_INFO = {
-  name: 'Pankaj Hanchate',
+  name: 'PANKAJ HANCHATE',
   title: 'WEB Developer & UI/UX Designer',
   email: 'pankajhanchate@gmail.com',
   phone: '+91 8147662827',
@@ -27,8 +27,10 @@ export const SOCIAL_LINKS = [
   { name: 'LinkedIn', url: 'https://www.linkedin.com/in/pankaj-hanchate-982991236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', icon: 'LinkedIn' },
   { name: 'GitHub', url: 'https://github.com/Pankajhanchate', icon: 'GitHub' },
   { name: 'Dribbble', url: 'https://dribbble.com/yourprofile', icon: 'Dribbble' },
-  { name: 'Instagram', url: 'https://www.instagram.com/the_crazyy_coder?igsh=bTV4cjN3MnYxbTZl', icon: 'Instagram' },
   { name: 'Behance', url: 'https://www.behance.net/pankajhanchate', icon: 'Behance' },
+  { name: 'Twitter', url: 'https://twitter.com/pankajhanchate', icon: 'Twitter' },
+  { name: 'Instagram', url: 'https://www.instagram.com/the_crazyy_coder?igsh=bTV4cjN3MnYxbTZl', icon: 'Instagram' },
+  
 ]
 
 // Skills data

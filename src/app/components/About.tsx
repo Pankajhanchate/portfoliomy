@@ -64,9 +64,12 @@ const About = () => {
             </h2>
             
             <p className="text-gray-300 text-lg mb-6">
-              Hello! I'm a passionate UI/UX designer with over 3 years of experience 
-              creating digital products that are not only beautiful but also intuitive 
-              and user-friendly.
+              Hello! I’m a passionate Web Developer & UI/UX Designer with over 3 years 
+              of experience crafting modern, user-centered digital experiences. 
+              I specialize in designing intuitive interfaces and developing responsive, 
+              high-performance websites using Figma, HTML, CSS, WordPress, and Webflow. 
+              My approach combines creative problem-solving with clean, scalable development
+               to deliver solutions that align with both user needs and business goals.
             </p>
             
             <p className="text-gray-300 text-lg mb-8">

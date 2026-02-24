@@ -108,7 +108,8 @@ const Hero = () => {
                   <img src="/cv/Pankaj_pic3.png" alt="" 
                   height={1000}
                   width={500}
-                  className="rounded-full object-cover"/>
+                  className="rounded-full object-cover transition-all duration-300 hover:bg-gradient-to-br hover:from-purple-1500 hover:to-pink-1500"
+/>
                 </div>
               </div>
               

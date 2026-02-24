@@ -28,7 +28,7 @@ const Navbar = () => {
             whileHover={{ scale: 1.05 }}
             className="text-2xl font-bold gradient-text"
           >
-            Designer<span className="text-pink-500">.</span>
+            <span className="text-pink-500">Developer & Designer.</span>
           </motion.div>
 
           {/* Desktop Navigation */}
