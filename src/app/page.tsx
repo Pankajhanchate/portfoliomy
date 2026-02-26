@@ -11,6 +11,7 @@ import ThemeSwitcher from './components/ThemeSwitcher'; // ← Add
 import ParticlesBackground from './components/ParticlesBackground'; // ← Add
 import Interactive3DCard from './components/3DCard'; // ← Add
 import GalleryModal from './components/GalleryModal'; // ← Add
+import MobileBottomNav from './components/MobileBottomNav';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
+      
       
       {/* Add Interactive Demo Section */}
       <section className="py-20 px-4 md:px-8 lg:px-20">
@@ -43,6 +45,7 @@ export default function Home() {
       <Contact />
       <Footer />
       <ScrollToTop />
+      <MobileBottomNav />
     </main>
   );
 }
