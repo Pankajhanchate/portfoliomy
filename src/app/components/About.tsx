@@ -23,12 +23,12 @@ const About = () => {
             className="relative"
           >
             <div className="glass-effect rounded-3xl p-8">
-              <div className="aspect-square rounded-2xl overflow-hidden mb-6">
+              {/* <div className="aspect-square rounded-2xl overflow-hidden mb-6"> */}
                 {/* Replace with your photo */}
-                <div className="w-full h-full bg-gradient-to-br from-purple-500/30 to-pink-500/30 flex items-center justify-center">
+                {/* <div className="w-full h-full bg-gradient-to-br from-purple-500/30 to-pink-500/30 flex items-center justify-center">
                   <span className="text-6xl">👨‍🎨</span>
                 </div>
-              </div>
+              </div> */}
               
               <div className="grid grid-cols-2 gap-4">
                 {stats.map((stat, index) => (
